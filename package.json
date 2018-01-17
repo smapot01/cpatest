@@ -1,0 +1,19 @@
+{
+  "name": "cpatest",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smapot01/cpatest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smapot01/cpatest/issues"
+  },
+  "homepage": "https://github.com/smapot01/cpatest#readme"
+}
